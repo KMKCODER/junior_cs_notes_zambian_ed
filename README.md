@@ -1,4 +1,4 @@
-### GRADE 8 AND GRADE 9 COMPUTER STUDIES NOTES
+# GRADE 8 AND GRADE 9 COMPUTER STUDIES NOTES
 ## Introduction
 These are notes compiled by Kapembwa Kangali for computer studies for grade 8 and grade 9 level. These can be used by teachers and pupils.
 
