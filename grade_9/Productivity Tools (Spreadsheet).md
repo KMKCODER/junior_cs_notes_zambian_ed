@@ -1,6 +1,14 @@
 ## Productivity Tools (Spreadsheets)
 
 ### Introduction
+
+##### Spreadsheet
+
+In the past a spreadsheet was a ledger book full of huge sheets of paper that would quite literally spread across the table. Rows and columns divided these sheets for manually entering data using a pen or pencil. 
+
+Accountants would primarily use these ledger books for a variety of finance-related scenarios that handled a lot of data. A whole spreadsheet could cover aspects such as accounts receivable, investments, inventory and expenses. Everything accountants needed to know was right there in one place, so they could easily make important decisions.
+
+##### Spreadsheet Application 
 A spreadsheet program is a software application used primarily for organizing, analyzing, and presenting data in tabular form. It allows users to create tables or grids made up of rows and columns, where they can input data, perform calculations, and generate visual representations like charts or graphs based on the data entered.
 
 Popular spreadsheet programs include Microsoft Excel, Google Sheets, and Apple Numbers. These applications offer various features such as formulas and functions for mathematical calculations, sorting and filtering tools, pivot tables for data summarization, and customizable charts and graphs for data visualization.
