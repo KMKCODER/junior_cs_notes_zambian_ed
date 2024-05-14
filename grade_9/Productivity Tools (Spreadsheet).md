@@ -33,6 +33,15 @@ Excel provides a wide range of mathematical, statistical, logical, and text func
 
 Data Import and Export: Excel supports importing data from external sources such as databases, CSV files, and other Excel workbooks. It also allows exporting data to different file formats for sharing and collaboration.
 
+### Microsoft Excel Versions 
+1. Microsoft Excel 2003
+2. Microsoft Excel 2007
+3. Microsoft Excel 2010
+4. Microsoft Excel 2013
+5. Microsoft Excel 2016
+6. Microsoft Excel 2019
+7. Microsoft Excel 2021
+
 ### Uses of Excel
 
 Microsoft Excel is widely used in businesses, academia, finance, accounting, engineering, and various other industries for tasks such as budgeting, data analysis, reporting, project management, and more. 
