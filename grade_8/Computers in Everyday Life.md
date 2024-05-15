@@ -36,30 +36,32 @@ In Education there are many uses of computers, these include:
 - Productivity. 
     - Just as in other uses there is production of documents and files for purposes of record keeping, presntation and publishing of files.
 - Computer aided learning.
-    - Computers are used for teaching and learning of students. This means that computers are 
+    - Computers are used for teaching and learning of students. This means that computers are used to lecture or teach learners through videos, pictures and audio. Learners may write exercises, tests and examination online (over the internet) and the teachers or lecturers do the same. 
+- Research.
+    - Computers are used in researching(involves finding and collecting data) as they gather skills and knowledge for teaching.
 ### Industrial and commercial uses
 
-Automation and Robotics: Industries leverage computers to automate repetitive tasks and streamline operations. Robotics controlled by computers are used in manufacturing processes, assembly lines, and logistics, leading to increased production speed, precision, and cost-effectiveness.
+- Automation and Robotics: Industries leverage computers to automate repetitive tasks and streamline operations. Robotics controlled by computers are used in manufacturing processes, assembly lines, and logistics, leading to increased production speed, precision, and cost-effectiveness.
 
-CAD/CAM Systems: Computer-Aided Design (CAD) and Computer-Aided Manufacturing (CAM) systems are widely used in industries like engineering, architecture, and product design. These systems enable designers and engineers to create, modify, and simulate designs digitally before physical production, reducing errors and improving product quality.
+- CAD/CAM Systems: Computer-Aided Design (CAD) and Computer-Aided Manufacturing (CAM) systems are widely used in industries like engineering, architecture, and product design. These systems enable designers and engineers to create, modify, and simulate designs digitally before physical production, reducing errors and improving product quality.
 
-Supply Chain Management: Computers are integral to managing complex supply chains, including inventory tracking, logistics optimization, demand forecasting, and supplier management. This helps businesses minimize costs, improve delivery times, and maintain optimal inventory levels.
+- Supply Chain Management: Computers are integral to managing complex supply chains, including inventory tracking, logistics optimization, demand forecasting, and supplier management. This helps businesses minimize costs, improve delivery times, and maintain optimal inventory levels.
 
-Data Analysis and Decision Making: Industries and commercial enterprises rely on computers for data analysis, using techniques such as big data analytics, machine learning, and artificial intelligence. This enables organizations to gain insights into market trends, customer behavior, operational efficiency, and make data-driven decisions.
+- Data Analysis and Decision Making: Industries and commercial enterprises rely on computers for data analysis, using techniques such as big data analytics, machine learning, and artificial intelligence. This enables organizations to gain insights into market trends, customer behavior, operational efficiency, and make data-driven decisions.
 
-Financial Transactions: Computers are essential for processing financial transactions, managing banking operations, stock trading, and electronic payments. Financial institutions use computers for real-time transactions, fraud detection, risk management, and compliance with regulatory requirements.
+- Financial Transactions: Computers are essential for processing financial transactions, managing banking operations, stock trading, and electronic payments. Financial institutions use computers for real-time transactions, fraud detection, risk management, and compliance with regulatory requirements.
 
-Customer Relationship Management (CRM): Businesses use CRM software powered by computers to manage customer interactions, track sales leads, automate marketing campaigns, and improve customer service. CRM systems help businesses build relationships, enhance customer satisfaction, and drive sales growth.
+- Customer Relationship Management (CRM): Businesses use CRM software powered by computers to manage customer interactions, track sales leads, automate marketing campaigns, and improve customer service. CRM systems help businesses build relationships, enhance customer satisfaction, and drive sales growth.
 
-Point-of-Sale (POS) Systems: Computers are used in retail and hospitality sectors for POS systems, managing sales transactions, inventory tracking, and customer payments. POS systems integrate with inventory management and accounting software, providing businesses with real-time sales data and financial insights.
+- Point-of-Sale (POS) Systems: Computers are used in retail and hospitality sectors for POS systems, managing sales transactions, inventory tracking, and customer payments. POS systems integrate with inventory management and accounting software, providing businesses with real-time sales data and financial insights.
 
-Digital Marketing: Computers enable businesses to conduct digital marketing campaigns through websites, social media platforms, email marketing, and online advertising. Digital marketing tools and analytics help businesses target audiences, measure campaign performance, and optimize marketing strategies.
+- Digital Marketing: Computers enable businesses to conduct digital marketing campaigns through websites, social media platforms, email marketing, and online advertising. Digital marketing tools and analytics help businesses target audiences, measure campaign performance, and optimize marketing strategies.
 
-Telecommunications: Computers are at the core of telecommunications networks, supporting voice, data, and video communication services. Businesses rely on computer-based communication systems for internal collaboration, customer support, and external communication with clients and partners.
+- Telecommunications: Computers are at the core of telecommunications networks, supporting voice, data, and video communication services. Businesses rely on computer-based communication systems for internal collaboration, customer support, and external communication with clients and partners.
 
-Energy Management: Industries use computers for energy management and optimization, monitoring energy consumption, controlling processes, and implementing energy-efficient practices. This helps reduce energy costs, minimize environmental impact, and comply with sustainability goals.
+- Energy Management: Industries use computers for energy management and optimization, monitoring energy consumption, controlling processes, and implementing energy-efficient practices. This helps reduce energy costs, minimize environmental impact, and comply with sustainability goals.
 
-## Social and Economic effects of computers
+## SOCIAL AND ECONOMIC EFFECTS OF COMPUTERS.
  - Communication: Computers have revolutionized communication, enabling instant messaging, emails, video calls, and social media platforms. This has facilitated global connectivity, transformed how people interact personally and professionally, and expanded opportunities for collaboration and networking.
 
 - Education: Computers have transformed education by providing access to vast amounts of information through the internet. Online courses, e-books, educational software, and digital libraries have made learning more accessible and flexible, bridging geographical barriers and offering personalized learning experiences.
