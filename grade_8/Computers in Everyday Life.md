@@ -31,6 +31,7 @@ The following are the uses of a computer in a business setting:
     - For software development companies such as microsoft corporation; there is use of computers in designing,programming (coding) and deploying software applications (making available to the public). Applications such as Word, Excel and PowerPoint and System Software such as Windows Operating System are produced by Microsoft Corporation.
 - Multimedia Production.
     - Multimedia production involves production of video, audio and images in ways that are used for adverting, information and entertainment. Computers are used for producing defferent types of media, video for short films, sound for music or talks and pictures for information.
+    
 ### Education-based uses
 In Education there are many uses of computers, these include:
 - Productivity. 
