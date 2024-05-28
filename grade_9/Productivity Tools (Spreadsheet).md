@@ -44,4 +44,34 @@ Data Import and Export: Excel supports importing data from external sources such
 
 ### Uses of Excel
 
-Microsoft Excel is widely used in businesses, academia, finance, accounting, engineering, and various other industries for tasks such as budgeting, data analysis, reporting, project management, and more. 
+Microsoft Excel is widely used in businesses, academia, finance, accounting, engineering, and various other industries for tasks such as budgeting, data analysis, reporting, project management, and more.
+
+- It is used for entering data i.e. numerical and alphanumerical data.
+- It is used for making simple and complex calculations.
+- It is used for creating balance sheets for accounting and banking activities.
+- It is used as a Database Management System for record keeping.
+- It is used for analyzing data
+- It is used for creating graphical representations of data.  i.e. Pie charts, Bar chart, etc.
+### Parts of an Excel Window
+
+![alt text](image.png)
+
+The window above is based Microsoft Office Excel 2016.
+
+### Uses of the parts of an excel Window.
+1. Cell.
+   - This is a field or space formed due to the inter-section of rows and columns. The combinations of all these cells from what is known as a spreadsheets. Cells are spaces in which values are entered in a spreadsheet. There are a total of 1,048,576 rows and there are 16,384 columns in a spreadsheet making all cells in a single spreadsheet.
+2. Active Cell (Cursor).
+   - This is 
+3. Active Worksheet
+4. Column
+5. Row
+6. Name Box
+7. Formula Bar
+8. Insert Function
+9. Scroll Bar
+10. View Layout
+11. Zoom Panel
+12. Tablets (Tabs)
+13. Title Bar
+14. Ribbon
