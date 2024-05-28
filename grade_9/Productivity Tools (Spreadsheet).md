@@ -21,17 +21,20 @@ Microsoft Excel is a powerful spreadsheet program developed by Microsoft Corpora
 
 ### Main features of Excel
 
-1. Cells, Rows, and Columns: 
+#### 1. Cells, Rows, and Columns
 Data is organized into cells, which are arranged in rows and columns. Users can input text, numbers, formulas, and functions into cells.
 
-2. Formulas and Functions: 
+#### 2. Formulas and Functions
 Excel provides a wide range of mathematical, statistical, logical, and text functions that can be used to perform calculations and manipulate data dynamically.
 
-3. Charts and Graphs: Users can create various types of charts and graphs, such as bar charts, line graphs, pie charts, and more, to visually represent data and trends.
+#### 3. Charts and Graphs
+Users can create various types of charts and graphs, such as bar charts, line graphs, pie charts, and more, to visually represent data and trends.
 
-4. Data Analysis Tools: Excel offers tools like pivot tables, data sorting and filtering, conditional formatting, and goal seeking to analyze and interpret data effectively.
+#### 4. Data Analysis Tools
+Excel offers tools like pivot tables, data sorting and filtering, conditional formatting, and goal seeking to analyze and interpret data effectively.
 
-Data Import and Export: Excel supports importing data from external sources such as databases, CSV files, and other Excel workbooks. It also allows exporting data to different file formats for sharing and collaboration.
+#### 5. Data Import and Export
+Excel supports importing data from external sources such as databases, CSV files, and other Excel workbooks. It also allows exporting data to different file formats for sharing and collaboration.
 
 ### Microsoft Excel Versions 
 1. Microsoft Excel 2003
@@ -54,18 +57,21 @@ Microsoft Excel is widely used in businesses, academia, finance, accounting, eng
 - It is used for creating graphical representations of data.  i.e. Pie charts, Bar chart, etc.
 ### Parts of an Excel Window
 
+The window below is based on Microsoft Office Excel 2016.
+
 ![alt text](image.png)
 
-The window above is based Microsoft Office Excel 2016.
-
 ### Uses of the parts of an excel Window.
-1. Cell.
-   - This is a field or space formed due to the inter-section of rows and columns. The combinations of all these cells from what is known as a spreadsheets. Cells are spaces in which values are entered in a spreadsheet. There are a total of 1,048,576 rows and there are 16,384 columns in a spreadsheet making all cells in a single spreadsheet.
-2. Active Cell (Cursor).
-   - This is 
-3. Active Worksheet
-4. Column
-5. Row
+#### 1. Cell.
+This is a field or space formed due to the inter-section of rows and columns. The combinations of all these cells from what is known as a spreadsheets. Cells are spaces in which values are entered in a spreadsheet. There are a total of 1,048,576 rows and there are 16,384 columns in a spreadsheet making all cells in a single spreadsheet. Cell names are labelled after the intersection of column and row name e.g Column A and Row 1 inter-secting Cell A1.
+#### 2. Active Cell (Cursor)
+This is a cell where a green cursor is placed. This is the cell which is selected and ready for a value to be entered.
+#### 3. Active Worksheet.
+This is a sheet that is selected and being being viewed by the user. The active sheet is show with a small bar at the bottom. i.e label oas sheet 1 as default sheet name.
+#### 4. Column
+This is formed from two parallel vertical lines running through the spreadsheet. They are named after the letters of the alphabet. The start from A, once they reach letter Z they begin a sequence of A having a second place of the letters, begining from A until Z again i.e AA, AB, AC ....AZ. After AZ the sequence begins from AAA once again; ths sequence is repeated until the 16, 384 column being column XFD.
+#### 5. Row
+This is formed from parallel horizontal lines 
 6. Name Box
 7. Formula Bar
 8. Insert Function
