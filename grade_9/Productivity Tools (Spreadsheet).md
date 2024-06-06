@@ -85,7 +85,7 @@ This is a sheet that is selected and being being viewed by the user. The active 
 This is a space where the active cell name is indicated. when a cursor is placed in a particular cell, the name of the cell where the cursor is placed is labelled in the name box.
 
 #### 7. Formula Bar.
-This is a bar the found at the 
+This is a bar the located at the top part of the sheet on an excel window. The formula bar is 
 
 #### 8. Insert Function.
 
