@@ -4,7 +4,7 @@
 
 ##### Spreadsheet
 
-In the past a spreadsheet was a ledger book full of huge sheets of paper that would quite literally spread across the table. Rows and columns divided these sheets for manually entering data using a pen or pencil. 
+In the past a spreadsheet was a ledger book full of huge sheets of paper that would quite literally spread across the table. Rows and columns divided these sheets for manually entering data using a pen or pencil.
 
 Accountants would primarily use these ledger books for a variety of finance-related scenarios that handled a lot of data. A whole spreadsheet could cover aspects such as accounts receivable, investments, inventory and expenses. Everything accountants needed to know was right there in one place, so they could easily make important decisions.
 
@@ -38,14 +38,14 @@ Excel offers tools like pivot tables, data sorting and filtering, conditional fo
 #### 5. Data Import and Export
 Excel supports importing data from external sources such as databases, CSV files, and other Excel workbooks. It also allows exporting data to different file formats for sharing and collaboration.
 
-### Microsoft Excel Versions 
-1. Microsoft Excel 2003
-2. Microsoft Excel 2007
-3. Microsoft Excel 2010
-4. Microsoft Excel 2013
-5. Microsoft Excel 2016
-6. Microsoft Excel 2019
-7. Microsoft Excel 2021
+### Microsoft Office Excel Versions 
+1. Microsoft Office Excel 2003
+2. Microsoft Office Excel 2007
+3. Microsoft Office Excel 2010
+4. Microsoft Office Excel 2013
+5. Microsoft Office Excel 2016
+6. Microsoft Office Excel 2019
+7. Microsoft Office Excel 2021
 
 ### Uses of Excel
 
@@ -85,7 +85,11 @@ This is a sheet that is selected and being being viewed by the user. The active 
 This is a space where the active cell name is indicated. when a cursor is placed in a particular cell, the name of the cell where the cursor is placed is labelled in the name box.
 
 #### 7. Formula Bar.
+<<<<<<< HEAD
 This is a bar that is found at the top of the spread sheet and under the ribbon. This bar is used to enter formulars that corresponse with the active cell at a particular time. It can also be used to enter values in the active cells.
+=======
+This is a bar the located at the top part of the sheet on an excel window. The formula bar is 
+>>>>>>> ed84d7b6c803fdf14b2a0acc08ff385bcdf6624c
 
 #### 8. Insert Function.
 This a button that appears on the left end of the formula bar with a label of _fx_ . it is used to insert pre build formuales in an active cell. when you click on the button, a button pops up on the screen showing the different formulars you can insert.
