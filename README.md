@@ -28,4 +28,4 @@ These are notes compiled by Kapembwa Kangali for computer studies for grade 8 an
 8. Networks and the internet
 9. Multimedia Files.
 
-_(C) KMKCODER_
+_(C) KMKCODER 2024_
