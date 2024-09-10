@@ -1,8 +1,11 @@
 ## COMPUTER NETWORKS
-What is a computer network?
+
 What a computer network?
-Computer network is a link between two or more computers or an interconnection of computers. E.g. computer + computer + computer= computer network.  A computer which is not connected to another computer is called? -A stand-alone computer.
-A central computer that hold data/information and able to feed other computers on a network is called? -A server or Host
+Computer network is a link between two or more computers or an interconnection of computers for purposes of sharing resources. E.g. computer 1 + computer 2 + computer 3= computer network. 
+
+### Computer Network Terminologies
+ A computer which is not connected to another computer is called? -A stand-alone computer.
+A central computer that hold data/information and able to feed other computers on a network is called -A server or Host
 The computers connected to the server or host are called?
 – Terminals or workstations or slaves or clients
 What is an internet?
