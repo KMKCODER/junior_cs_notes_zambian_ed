@@ -1,7 +1,7 @@
 ## COMPUTER NETWORKS
 
 #### What a computer network?
-Computer network is a link between two or more computers or an interconnection of computers for purposes of sharing resources. E.g. computer 1 + computer 2 + computer 3= computer network. 
+Computer network is a link between two or more computers or an interconnection of computers for purposes of sharing resources. E.g. computer 1 + computer 2 + computer 3= computer network.
 
 ### Computer Network Terminologies
 #### 1. Stand-alone Computer.
@@ -18,25 +18,25 @@ What is the difference between a computer network and internet?
 #### Purpose of the internet
 • To share data
 – For example, a centralized database can be used to store all the records of an organization and the same data in the database can be accessed by everyone.
-• To share tasks
-– A team of workers can work together on tasks to speed up processing.
-• To share computer resources
+* To share tasks
+ A team of workers can work together on tasks to speed up processing.
+ * To share computer resources
 – Expensive resources, such as hard disks, printers and software programs can be shared. Sharing these resources greatly reduces procurement and maintenance costs.
-• To make communication more efficient and effective
+* To make communication more efficient and effective
 – It is easier and cheaper for people to communicate.
 What are the three main function of an internet? The three main functions of the Internet are:
-• Communication
+* Communication
 – One can contact and exchange information with friends and organizations anywhere in the world.
-• Retrieval of information
+* Retrieval of information
 – One can have access to a broad range of data and information from other computers around the globe.
-• Commerce
+* Commerce
 – One can advertise, buy and sell goods and services on the Internet.
 Mention three types of computer networks. These are;
 – Local Area Network (LAN)
 – Metropolitan Area Network (MAN)
 – Wide Area Network (WAN)
 The three mentioned types of computer networks they differ due to the area they cover.
-• Local Area Network (LAN) - A LAN is a computer network within a room, a building or a small area such as a school campus. Computers in a LAN are separated by distances of up to a few kilometers. An example of a LAN is the Chinsali day secondary school computer lab.
-• Metropolitan Area Network (MAN) - MAN is a computer network within a town or district. It covers a longer distance than a LAN. An example of MAN is the computer network used to connect branches of a bank within a town.
-• Wide Area Network (WAN) -WAN connect computers separated by longer distances, for example in different towns, in different countries or different continents. An example of a WAN is the Internet which interconnects many computer networks in the world.
+* Local Area Network (LAN) - A LAN is a computer network within a room, a building or a small area such as a school campus. Computers in a LAN are separated by distances of up to a few kilometers. An example of a LAN is the Chinsali day secondary school computer lab.
+* Metropolitan Area Network (MAN) - MAN is a computer network within a town or district. It covers a longer distance than a LAN. An example of MAN is the computer network used to connect branches of a bank within a town.
+* Wide Area Network (WAN) -WAN connect computers separated by longer distances, for example in different towns, in different countries or different continents. An example of a WAN is the Internet which interconnects many computer networks in the world.
 Compare and contrast the three types of computer networks (LAN, MAN and WAN)
