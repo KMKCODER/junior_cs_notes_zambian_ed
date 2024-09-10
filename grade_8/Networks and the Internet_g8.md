@@ -1,18 +1,21 @@
 ## COMPUTER NETWORKS
 
-What a computer network?
+#### What a computer network?
 Computer network is a link between two or more computers or an interconnection of computers for purposes of sharing resources. E.g. computer 1 + computer 2 + computer 3= computer network. 
 
 ### Computer Network Terminologies
+#### 1. Stand-alone Computer.
  A computer which is not connected to another computer is called? -A stand-alone computer.
+#### 2. Server.
 A central computer that hold data/information and able to feed other computers on a network is called -A server or Host
+#### 3. Terminals/Workstation/Clients.
 The computers connected to the server or host are called?
 – Terminals or workstations or slaves or clients
-What is an internet?
+#### 4. Internet
 – An internet is a link between two or more computer networks or an interconnection of computers networks. E.g. computer network + computer network + computer network= Internet
 What is the difference between a computer network and internet?
 – The difference between a computer network and internet is that a computer network is the interconnection of two or more computers and this can be within a room or city while an internet is the interconnection of computer networks, and this can cover networks of the whole country or the world.
-Give the importance of using a computer network. The importance are;
+#### Purpose of the internet
 • To share data
 – For example, a centralized database can be used to store all the records of an organization and the same data in the database can be accessed by everyone.
 • To share tasks
