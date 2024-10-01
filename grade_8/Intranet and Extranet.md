@@ -30,5 +30,3 @@ An intranet is a private computer network within an organization that uses inter
 - Enhances communication with clients, allowing them to access project updates, invoices, and other relevant information through a secure platform.
 - Ensures data security and compliance by implementing access controls, encryption, and secure authentication methods for external users.
 - Streamlines business processes by allowing seamless integration between an organization and its external partners, reducing delays and improving overall efficiency.
-
-
