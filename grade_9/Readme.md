@@ -1,1 +1,1 @@
-The following topics are for grade 9 level
+The following are the topics for grade 9 level
