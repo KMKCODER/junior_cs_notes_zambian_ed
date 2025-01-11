@@ -4,7 +4,7 @@ These are notes compiled by Kapembwa Kangali for computer studies for grade 8 an
 
 ## Topic Outline.
 
-### Grade 8
+### Grade 8.
 
 1. Introduction to computer studies
 2. Basic Operations
