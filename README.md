@@ -13,7 +13,7 @@ These are notes compiled by Kapembwa Kangali for computer studies for grade 8 an
 5. Productivity Tools (Spreadsheets)
 6. Productivity Tools (PowerPoint)
 7. Productivity Tools (Desktop Publishing)
-8. Networks and the internet
+8. Networks and the internet.
 9. Multimedia Files.
 
 ### Grade 9
