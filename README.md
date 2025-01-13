@@ -16,7 +16,7 @@ These are notes compiled by Kapembwa Kangali for computer studies for grade 8 an
 8. Networks and the internet.
 9. Multimedia Files.
 
-### Grade 9
+### Grade 9.
 
 1. Introduction to computer studies
 2. Basic Operations
