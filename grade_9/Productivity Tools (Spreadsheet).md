@@ -85,13 +85,9 @@ This is a sheet that is selected and being being viewed by the user. The active 
 This is a space where the active cell name is indicated. when a cursor is placed in a particular cell, the name of the cell where the cursor is placed is labelled in the name box.
 
 #### 7. Formula Bar.
-<<<<<<< HEAD
 This is a bar that is found at the top of the spread sheet and under the ribbon. This bar is used to enter formulars that corresponse with the active cell at a particular time. It can also be used to enter values in the active cells.
-=======
-This is a bar the located at the top part of the sheet on an excel window. The formula bar is 
->>>>>>> ed84d7b6c803fdf14b2a0acc08ff385bcdf6624c
 
-#### 8. Insert Function.
+#### 8 Insert function.
 This a button that appears on the left end of the formula bar with a label of _fx_ . it is used to insert pre build formuales in an active cell. when you click on the button, a button pops up on the screen showing the different formulars you can insert.
 
 #### 9. Add Sheet button.
